@@ -1,2 +1,2 @@
-# test-cognito
-# test-cognito
+# test-rails-app
+# test-rails-app
